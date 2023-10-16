@@ -1,0 +1,7 @@
+Create a user check on AWS IAM Identity Center (AWS SSO) before adding permissions to an account.
+*Create a script to check users on AWS IAM Identity Center (AWS SSO) before adding permission to the account.
+
+
+
+Create a status check on the user, to confirm if he is added to the account in AWS IAM Identity center (AWS SSO)
+** We need to create a status check to see if the user was assigned the permissions successfully or not in AWS IAM Identity Center(AWS SSO)
