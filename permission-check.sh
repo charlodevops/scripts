@@ -1,3 +1,5 @@
+
+https://stackoverflow.com/questions/69075206/using-aws-cli-to-list-sso-user-group-assigned-to-a-permission-set
 #To check if a user was successfully assigned permissions in AWS SSO
 #!/bin/bash
 
